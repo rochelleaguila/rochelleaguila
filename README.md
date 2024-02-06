@@ -1,4 +1,5 @@
-### Hi there, I'm Rochelle! &nbsp;&nbsp;<sup>:woman_technologist: &#12299; A corporate girly and entrepreneur turned Tech Gal. </sup>
+### :sparkles: Hi there, I'm Rochelle! :sparkles: 
+:woman_technologist: &#12299;  I'm an ex-corporate gal who ventured into the world of skincare, creating my own cozy studio studio and products. But you know what? I decided to switch gears and dive headfirst into the tech universe. Always hungry to learn and loving the beauty of coding. Join me on this tech-filled adventure, where curiosity guides my journey, and every pull request is a step towards a brighter, tech-savvy future. 💻✨ #TechJourney #AlwaysLearning
 
 ----
 ![front-end](https://img.shields.io/static/v1?label=&message=front-end:&color=111&style=flat-square)
@@ -20,12 +21,12 @@
 
 ----
 
-<a href="https://twitter.com/rochelleaguila">
+<!--<a href="https://twitter.com/rochelleaguila">
   <img align="left" alt="Rochelle's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.instagram.com/rochelleaguila/">
   <img align="left" alt="Rochelle's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
+</a>-->
 <a href="https://linkedin.com/in/rochelleaguila">
   <img align="left" alt="Rochelle's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
