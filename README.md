@@ -1,5 +1,5 @@
 ### :sparkles: Hi there, I'm Rochelle! :sparkles: 
-:woman_technologist: &#12299;  I'm an ex-corporate gal who ventured into the world of skincare, creating my own cozy studio studio and products. But you know what? I decided to switch gears and dive headfirst into the tech universe. Always hungry to learn and loving the beauty of coding. Join me on this tech-filled adventure, where curiosity guides my journey, and every pull request is a step towards a brighter, tech-savvy future. 💻✨ #TechJourney #AlwaysLearning
+:woman_technologist: &#12299;  I'm an ex-corporate gal who ventured into the world of skincare, opening a cozy skin studio and creating my own products. But you know what? I decided to switch gears and dive headfirst into the tech universe. Always hungry to learn and loving the beauty of coding. Join me on this tech-filled adventure, where curiosity guides my journey, and every pull request is a step towards a brighter, tech-savvy future. 💻✨ #TechJourney #AlwaysLearning
 
 ----
 ![front-end](https://img.shields.io/static/v1?label=&message=front-end:&color=111&style=flat-square)
